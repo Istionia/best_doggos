@@ -1,0 +1,272 @@
+{
+    "shih_tzu": {
+        "name": "Shih Tzu",
+        "hunger_rate": 4,
+        "happiness_rate": -2,
+        "skill_boost": 8,
+        "energy_decay": 3,
+        "emoji": "🐕🌸",
+        "description": "A fluffy companion that loves grooming and cuddles."
+    },
+    "dandie_dinmont_terrier": {
+        "name": "Dandie Dinmont Terrier",
+        "hunger_rate": 5,
+        "happiness_rate": -3,
+        "skill_boost": 10,
+        "energy_decay": 4,
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿🏞️",
+        "description": "A small but mighty digger with a big personality."
+    },
+    "golden_retriever": {
+        "name": "Golden Retriever",
+        "hunger_rate": 6,
+        "happiness_rate": -1,
+        "skill_boost": 12,
+        "energy_decay": 5,
+        "emoji": "🐕🌞",
+        "description": "A friendly and energetic dog that loves fetch and water games."
+    },
+    "french_bulldog": {
+        "name": "French Bulldog",
+        "hunger_rate": 7,
+        "happiness_rate": -2,
+        "skill_boost": 6,
+        "energy_decay": 4,
+        "emoji": "🐕🥐",
+        "description": "A laid-back companion who enjoys naps and snacks."
+    },
+    "toy_poodle": {
+        "name": "Toy Poodle",
+        "hunger_rate": 5,
+        "happiness_rate": -1,
+        "skill_boost": 15,
+        "energy_decay": 6,
+        "emoji": "🐩🎀",
+        "description": "A smart and elegant dog that learns tricks quickly."
+    },
+    "miniature_schnauzer": {
+        "name": "Miniature Schnauzer",
+        "hunger_rate": 6,
+        "happiness_rate": -3,
+        "skill_boost": 10,
+        "energy_decay": 5,
+        "emoji": "🐕🔔",
+        "description": "An alert and spirited dog that loves to bark at intruders."
+    },
+    "beagle": {
+        "name": "Beagle",
+        "hunger_rate": 7,
+        "happiness_rate": -2,
+        "skill_boost": 8,
+        "energy_decay": 6,
+        "emoji": "🐕👃",
+        "description": "A curious and friendly dog with an excellent sense of smell."
+    },
+    "pug": {
+        "name": "Pug",
+        "hunger_rate": 8,
+        "happiness_rate": -1,
+        "skill_boost": 5,
+        "energy_decay": 3,
+        "emoji": "🐕🍖",
+        "description": "A charming and food-loving dog with a playful personality."
+    },
+    "german_shepherd": {
+        "name": "German Shepherd",
+        "hunger_rate": 6,
+        "happiness_rate": -4,
+        "skill_boost": 14,
+        "energy_decay": 7,
+        "emoji": "🐕🛡️",
+        "description": "A loyal and intelligent dog, great at obedience and protection."
+    },
+    "lowchen": {
+        "name": "Lowchen",
+        "hunger_rate": 5,
+        "happiness_rate": -2,
+        "skill_boost": 9,
+        "energy_decay": 4,
+        "emoji": "🐕🎠",
+        "description": "A lively and affectionate dog that loves agility courses."
+    },
+    "samoyed": {
+        "name": "Samoyed",
+        "hunger_rate": 6,
+        "happiness_rate": -1,
+        "skill_boost": 10,
+        "energy_decay": 6,
+        "emoji": "🐕❄️",
+        "description": "A fluffy and cheerful dog that thrives in cold weather."
+    },
+    "rhodesian_ridgeback": {
+        "name": "Rhodesian Ridgeback",
+        "hunger_rate": 7,
+        "happiness_rate": -3,
+        "skill_boost": 12,
+        "energy_decay": 8,
+        "emoji": "🦁🐕",
+        "description": "A fearless guardian with a strong hunting instinct."
+    },
+    "chihuahua": {
+        "name": "Chihuahua",
+        "hunger_rate": 4,
+        "happiness_rate": -5,
+        "skill_boost": 6,
+        "energy_decay": 3,
+        "emoji": "🐕💥",
+        "description": "A tiny but energetic dog that loves attention."
+    },
+    "doberman": {
+        "name": "Doberman",
+        "hunger_rate": 6,
+        "happiness_rate": -4,
+        "skill_boost": 13,
+        "energy_decay": 7,
+        "emoji": "🐕⚔️",
+        "description": "A strong and loyal dog, great at guarding and tracking."
+    },
+    "cardigan_welsh_corgi": {
+        "name": "Cardigan Welsh Corgi",
+        "hunger_rate": 5,
+        "happiness_rate": -2,
+        "skill_boost": 11,
+        "energy_decay": 5,
+        "emoji": "🐕👑",
+        "description": "A clever and agile dog that excels at herding."
+    },
+    "mini_pinscher": {
+        "name": "Mini Pinscher",
+        "hunger_rate": 5,
+        "happiness_rate": -4,
+        "skill_boost": 10,
+        "energy_decay": 6,
+        "emoji": "🐕⚡",
+        "description": "A lively and fearless dog that loves obstacle courses."
+    },
+    "shiba_inu": {
+        "name": "Shiba Inu",
+        "hunger_rate": 5,
+        "happiness_rate": -6,
+        "skill_boost": 8,
+        "energy_decay": 4,
+        "emoji": "🐕🇯🇵",
+        "description": "An independent and spirited dog with a unique personality."
+    },
+    "dachshund": {
+        "name": "Dachshund",
+        "hunger_rate": 6,
+        "happiness_rate": -3,
+        "skill_boost": 9,
+        "energy_decay": 5,
+        "emoji": "🐕🕳️",
+        "description": "A playful and determined dog that loves digging."
+    },
+    "boxer": {
+        "name": "Boxer",
+        "hunger_rate": 7,
+        "happiness_rate": -2,
+        "skill_boost": 11,
+        "energy_decay": 7,
+        "emoji": "🐕🥊",
+        "description": "A strong and playful dog that loves tug-of-war."
+    },
+    "irish_water_spaniel": {
+        "name": "Irish Water Spaniel",
+        "hunger_rate": 6,
+        "happiness_rate": -1,
+        "skill_boost": 10,
+        "energy_decay": 6,
+        "emoji": "🐕🌊",
+        "description": "A playful and intelligent dog that loves water and retrieving games."
+    },
+    "shetland_sheepdog": {
+        "name": "Shetland Sheepdog",
+        "hunger_rate": 5,
+        "happiness_rate": -2,
+        "skill_boost": 12,
+        "energy_decay": 5,
+        "emoji": "🐕🐑",
+        "description": "A smart and agile dog that excels at herding and agility."
+    },
+    "pomeranian": {
+        "name": "Pomeranian",
+        "hunger_rate": 4,
+        "happiness_rate": -3,
+        "skill_boost": 7,
+        "energy_decay": 4,
+        "emoji": "🐕🎇",
+        "description": "A fluffy and lively dog that loves attention."
+    },
+    "havanese": {
+        "name": "Havanese",
+        "hunger_rate": 5,
+        "happiness_rate": -2,
+        "skill_boost": 8,
+        "energy_decay": 4,
+        "emoji": "🐕🎶",
+        "description": "A cheerful and social dog that loves to make friends."
+    },
+    "cocker_spaniel": {
+        "name": "Cocker Spaniel",
+        "hunger_rate": 6,
+        "happiness_rate": -1,
+        "skill_boost": 9,
+        "energy_decay": 5,
+        "emoji": "🐕🎾",
+        "description": "A gentle and playful dog that loves retrieving games."
+    },
+    "great_dane": {
+        "name": "Great Dane",
+        "hunger_rate": 8,
+        "happiness_rate": -1,
+        "skill_boost": 6,
+        "energy_decay": 6,
+        "emoji": "🐕🌍",
+        "description": "A gentle giant with a calm and loving personality."
+    },
+    "bull_terrier": {
+        "name": "Bull Terrier",
+        "hunger_rate": 7,
+        "happiness_rate": -3,
+        "skill_boost": 10,
+        "energy_decay": 7,
+        "emoji": "🐕💪",
+        "description": "A strong and playful dog that loves tug-of-war and strength games."
+    },
+    "siberian_husky": {
+        "name": "Siberian Husky",
+        "hunger_rate": 6,
+        "happiness_rate": -3,
+        "skill_boost": 10,
+        "energy_decay": 7,
+        "emoji": "🐕❄️🏂",
+        "description": "A playful and energetic dog that loves cold weather and outdoor adventures."
+    },
+    "labrador_retriever": {
+        "name": "Labrador Retriever",
+        "hunger_rate": 7,
+        "happiness_rate": -1,
+        "skill_boost": 12,
+        "energy_decay": 6,
+        "emoji": "🐕🌊🎾",
+        "description": "A friendly and outgoing dog that loves water and retrieving games."
+    },
+    "papillon": {
+        "name": "Papillon",
+        "hunger_rate": 4,
+        "happiness_rate": -2,
+        "skill_boost": 13,
+        "energy_decay": 5,
+        "emoji": "🐕🦋",
+        "description": "A bright and graceful dog with butterfly-like ears, excelling at agility."
+    },
+    "kerry_blue_terrier": {
+        "name": "Kerry Blue Terrier",
+        "hunger_rate": 6,
+        "happiness_rate": -3,
+        "skill_boost": 11,
+        "energy_decay": 5,
+        "emoji": "🐕☘️",
+        "description": "A versatile Irish terrier known for its blue coat and working dog abilities."
+    }
+}
