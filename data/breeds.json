@@ -268,5 +268,23 @@
         "energy_decay": 5,
         "emoji": "🐕☘️",
         "description": "A versatile Irish terrier known for its blue coat and working dog abilities."
+    },
+    "dogo_argentino": {
+        "name": "Dogo Argentino",
+        "hunger_rate": 7,
+        "happiness_rate": -3,
+        "skill_boost": 11,
+        "energy_decay": 7,
+        "emoji": "🐕💪🇦🇷",
+        "description": "A powerful and athletic dog bred for big-game hunting and protection."
+    },
+    "rottweiler": {
+        "name": "Rottweiler",
+        "hunger_rate": 7,
+        "happiness_rate": -3,
+        "skill_boost": 13,
+        "energy_decay": 6,
+        "emoji": "🐕🛡️💪",
+        "description": "A confident and powerful guardian breed, known for loyalty and intelligence."
     }
 }

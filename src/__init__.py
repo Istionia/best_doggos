@@ -1,4 +1,5 @@
-from src.game import start_game
+from src.game import start_game, main_game_loop
 
 if __name__ == "__main__":
-    start_game()
+    dog = start_game()
+    main_game_loop(dog)
